@@ -3,7 +3,7 @@
     --success:#0a3255;
     --chrome-green:#17cc44;
     --light:aliceblue;
-	--hover-light:#192734;
+    --hover-light:#192734;
 }
 .search-box input{
     background-color: transparent;
@@ -22,7 +22,7 @@
     transition: .7s;
 }
 .search-button{
-	background-color:transparent;
+    background-color:transparent;
     border:none;
 }
 body{
@@ -39,7 +39,7 @@ a{
 }
 .current{
     color:var(--chrome-green);
-	background-color: var(--success);
+    background-color: var(--success);
 }
 hr {
     border-color: aliceblue;
@@ -51,16 +51,16 @@ hr {
     --bs-btn-hover-color:var(--bs-btn-color);
     --bs-btn-hover-bg:var(--bs-btn-active-bg);
     --bs-btn-active-color:var(--dark);
-	margin-left:1px;
-	margin-right:1px;
+    margin-left:1px;
+    margin-right:1px;
 }
 .text-cg{
     color:var(--chrome-green);
 }
 .hover-box{
-	border-radius:.375rem;
+    border-radius:.375rem;
 }
 .hover-box:hover{
-	background-color: var(--hover-light);
-	transition:.3s;
+    background-color: var(--hover-light);
+    transition:.3s;
 }
